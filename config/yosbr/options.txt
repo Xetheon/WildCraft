@@ -1,0 +1,6 @@
+autoJump:false
+realmsNotifications:false
+guiScale:2
+key_key.sprint:key.keyboard.q
+key_key.bettercontrols.toggle_sneak:key.keyboard.left.control
+key_key.drop:key.keyboard.grave.accent

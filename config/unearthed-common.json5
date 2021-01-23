@@ -1,0 +1,71 @@
+{ 
+	"generation": { 
+		"naturalgeneratorv1": { 
+			/* 
+			   Stone vein scale factor. Multiplies the vein size. 
+			   Default: 4.5
+			*/
+			"stoneVeinScaleFactor": 4.5,
+			/* 
+			   Perturb Strength 
+			   Default: 95
+			*/
+			"perturbAmpStrength": 95.0,
+			/* 
+			   Perturb Octaves. Bigger values = slower world gen
+			   Default: 5
+			*/
+			"perturbAmpOctaves": 5,
+			/* 
+			   Small Perturb Strength 
+			   Default: 8
+			*/
+			"smallPerturbAmpStrength": 8.0,
+			/* 
+			   Small Perturb Octaves. Bigger values = slower world gen
+			   Default: 3
+			*/
+			"smallPerturbAmpOctaves": 3,
+			/* 
+			   List of blocks to use in world generation.
+			   Default: "unearthed:gray_basalt,unearthed:gabbro,unearthed:pumice,unearthed:kimberlite,unearthed:rhyolite,unearthed:slate,unearthed:quartzite,unearthed:phyllite,unearthed:schist,unearthed:limestone,unearthed:lignite,unearthed:conglomerate,minecraft:stone"
+			*/
+			"blocksForGeneration": "unearthed:gray_basalt,unearthed:gabbro,unearthed:pumice,unearthed:kimberlite,unearthed:rhyolite,unearthed:slate,unearthed:quartzite,unearthed:phyllite,unearthed:schist,unearthed:limestone,unearthed:lignite,unearthed:conglomerate,minecraft:stone",
+			/* 
+			   List of blocks to use in icy biome world generation.
+			   Default: "unearthed:marble,minecraft:packed_ice"
+			*/
+			"iceBlocksForGeneration": "unearthed:marble,minecraft:packed_ice",
+			/* 
+			   List of blocks to use in desert biome world generation.
+			   Default: "unearthed:siltstone,unearthed:mudstone,minecraft:smooth_sandstone,minecraft:sandstone"
+			*/
+			"desertBlocksForGeneration": "unearthed:siltstone,unearthed:mudstone,minecraft:smooth_sandstone,minecraft:sandstone"
+		},
+		/* 
+		   Use Stone Block Tag? Could have performance impact!
+		   Default: false
+		*/
+		"stoneTag": true,
+		/* 
+		   Replace cobblestone? Replaces dungeon cobble stone for example.
+		   Default: true
+		*/
+		"replaceCobble": true,
+		/* 
+		   Are vanilla Mesas/badlands layered down to bedrock? Ores will still be kept.
+		   Default: true
+		*/
+		"trueMesas": true,
+		/* 
+		   Do deserts use different blocks for cave generation?
+		   Default: true
+		*/
+		"desertCaves": true,
+		/* 
+		   Do icy/frozen biomes use different blocks for cave generation?
+		   Default: true
+		*/
+		"icyCaves": true
+	}
+}

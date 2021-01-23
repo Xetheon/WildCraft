@@ -1,0 +1,14 @@
+{ 
+	"main": { 
+		"tomatoes": true,
+		"lettuce": true
+	},
+	"worldgen": { 
+		"salt_ore": true,
+		"loot": true
+	},
+	"trader": { 
+		"enabled": true,
+		"spawntrader": true
+	}
+}

@@ -1,0 +1,33 @@
+{
+	// Function as whitelist instead
+	"isWhitelist": false,
+	// Block IDs to blacklist from being mined
+	"blacklistedBlocks": [
+		"minecraft:red_terracotta",
+		"minecraft:purpur_pillar",
+		"minecraft:megenta_terracotta",
+		"minecraft:endstone",
+		"minecraft:blue_terracotta",
+		"minecraft:dirt",
+		"byg:red_rock",
+		"minecraft:green_terracotta",
+		"minecraft:purple_terracotta",
+		"minecraft:pink_terracotta",
+		"minecraft:grass",
+		"minecraft:white_terracotta",
+		"minecraft:obsidian",
+		"minecraft:endstone_brick",
+		"minecraft:orange_terracotta",
+		"minecraft:black_terracotta",
+		"minecraft:purpur_brick",
+		"minecraft:andesite",
+		"minecraft:granite",
+		"minecraft:netherack",
+		"minecraft:yellow_terracotta",
+		"minecraft:diorite",
+		"minecraft:stone",
+		"minecraft:lime_terracotta",
+		"minecraft:terracotta",
+		"minecraft:"
+	]
+}

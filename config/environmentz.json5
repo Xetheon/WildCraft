@@ -1,0 +1,17 @@
+{ 
+	"allow_all_armor": false,
+	"cold_damage": 1.0,
+	"cold_damage_interval": 400,
+	// Freeze effect duration ticks
+	"cold_damage_effect_time": 2400,
+	// Time after freezing occurs
+	"cold_tick_interval": 400,
+	"warm_armor_tick_modifier": 40,
+	"heating_up_interval": 100,
+	// Substracting freeze effect ticks
+	"heating_up_cold_tick_decrease": 400,
+	// Caution! This could decrease performance
+	"heating_up_block_range": 1,
+	"freeze_icon_x": 7,
+	"freeze_icon_y": 52
+}

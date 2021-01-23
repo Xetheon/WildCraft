@@ -1,0 +1,22 @@
+autoStackUsedPotions = false
+pottableCrops = true
+toggleableBeaconBeams = true
+featherFallingStopsTrampling = true
+repairableAnvils = true
+openChestsThroughItemFrames = true
+openChestsThroughSigns = true
+leadBreakSound = true
+
+[soulBlockConversion]
+enableTorchConversion = true
+enableLanternConversion = true
+enableCampfireConversion = true
+
+[utilityRecipes]
+strippedLogsCrafting = true
+solidifiedConcreteCrafting = true
+
+[leadableMobs]
+leadableHoglinsAndZoglins = true
+leadableTurtles = true
+leadablePandas = true

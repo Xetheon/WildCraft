@@ -1,0 +1,17 @@
+{
+  "volumes": {
+    "atmosfera:desert_daytime": 14,
+    "atmosfera:desert_nighttime": 18,
+    "atmosfera:grass": 23,
+    "atmosfera:jungle": 18,
+    "atmosfera:leaves": 12,
+    "atmosfera:ocean": 7,
+    "atmosfera:plains_daytime": 17,
+    "atmosfera:plains_nighttime": 17,
+    "atmosfera:river": 20,
+    "atmosfera:swamp_daytime": 10,
+    "atmosfera:swamp_nighttime": 10,
+    "atmosfera:waves": 9,
+    "atmosfera:wind": 0
+  }
+}

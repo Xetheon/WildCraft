@@ -1,0 +1,30 @@
+{
+	"features_group": {
+		// Reduces the volume while not focused on this window
+		"reduce_volume_while_away": true,
+		// Adds smooth transitions on Sun/Moon's movement
+		"smooth_day_cycle": true,
+		// Increases the size of Baby Villagers' head
+		"bigger_baby_villager_heads": false,
+		// Makes the sliders in "Music and Sound Options" make noise when adjusted
+		"noisy_sound_sliders": false,
+		// The noise from sliders in "Music and Sound Options" will be dynamic
+		"dynamic_sound_slider_noise": true,
+		// Fixes baby biped's hat layer
+		"fix_baby_hat_layer": true,
+		// Adds shadows on the debug HUD's text
+		"shadowed_debug_hud": true,
+		// Enables the Strider easter egg
+		"strider_easter_egg": true
+	},
+	"values_group": {
+		// The percentage applied by the "Reduce Volume While Away" tweak
+		"reduced_volume_percentage": 50.0,
+		// The divisor used by the "Smooth Day Cycle" tweak
+		"smooth_day_cycle_divisor": 32.0,
+		// Used by "Noisy Sound Slider" to reduce noise
+		"noisy_sound_slider_steps": 10.0,
+		// The scale used by the "Bigger Baby Villager Heads" tweak
+		"baby_villager_head_scale": 1.75
+	}
+}

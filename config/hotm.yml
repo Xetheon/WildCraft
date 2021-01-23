@@ -1,0 +1,23 @@
+forceNectereBiomeSource: false
+generateMissingPortals: true
+necterePortalWorldGenBlacklistBiomes:
+- minecraft:ocean
+- minecraft:river
+- minecraft:frozen_ocean
+- minecraft:frozen_river
+- minecraft:deep_ocean
+- minecraft:warm_ocean
+- minecraft:lukewarm_ocean
+- minecraft:cold_ocean
+- minecraft:deep_warm_ocean
+- minecraft:deep_lukewarm_ocean
+- minecraft:deep_cold_ocean
+- minecraft:deep_frozen_ocean
+- the_bumblezone:hive_wall
+- the_bumblezone:hive_pillar
+- the_bumblezone:sugar_water_floor
+- terrestria:caldera
+- terrestria:lush_desert
+- terrestria:oasis
+- byg:dead_sea
+- byg:tropical_island

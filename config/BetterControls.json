@@ -1,0 +1,17 @@
+{
+  "Sprint.KeyToggle.Key": "key.keyboard.unknown",
+  "Sprint.DoubleTapForward": false,
+  "Sprint.TapToStop": true,
+  "Sprint.ResumeAfterHittingObstacle": false,
+  "Sneak.KeyToggle.Key": "key.keyboard.left.control",
+  "Sneak.SmoothCamera": true,
+  "Flight.KeyToggle.Creative.Key": "key.keyboard.unknown",
+  "Flight.FlyOnGround.Creative": false,
+  "Flight.SpeedMp.Creative.Default": 1.0,
+  "Flight.SpeedMp.Creative.Sprinting": 4.0,
+  "Flight.SpeedMp.Spectator.Default": 1.0,
+  "Flight.SpeedMp.Spectator.Sprinting": 3.0,
+  "Misc.KeyToggleWalkForward.Key": "key.keyboard.unknown",
+  "Misc.KeyToggleJump.Key": "key.keyboard.unknown",
+  "Misc.KeyOpenMenu.Key": "key.keyboard.unknown"
+}

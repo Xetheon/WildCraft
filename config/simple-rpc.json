@@ -1,0 +1,78 @@
+{
+  "discordid": "762726289341677668",
+  "enabled": true,
+  "debugging": false,
+  "version": 4,
+  "init": {
+    "_comment": "This is called while MC and Forge is loading",
+    "enabled": true,
+    "state": "Game Starting...",
+    "description": "Minecraft is loading",
+    "largeImageKey": "mclogo",
+    "largeImageText": "It's Minecraft %mcver%, but modded",
+    "smallImageKey": "mclogo",
+    "smallImageText": "%mods% mods installed"
+  },
+  "main_menu": {
+    "_comment": "This is called when the player is on the main menu",
+    "enabled": true,
+    "state": "Chilling in the menu",
+    "description": "%player% is currently lazy",
+    "largeImageKey": "mclogo",
+    "largeImageText": "It's Minecraft %mcver%, but modded",
+    "smallImageKey": "mclogo",
+    "smallImageText": "%mods% mods installed"
+  },
+  "server_list": {
+    "_comment": "This is called when the player is on the multiplayer Screen",
+    "enabled": true,
+    "state": "Searching for friends",
+    "description": "%player% is looking for a server",
+    "largeImageKey": "mclogo",
+    "largeImageText": "It's Minecraft %mcver%, but modded",
+    "smallImageKey": "mclogo",
+    "smallImageText": "%mods% mods installed"
+  },
+  "single_player": {
+    "_comment": "This is called when the player is playing in single player mode",
+    "enabled": true,
+    "state": "Playing lonely mode",
+    "description": "Currently in %world%",
+    "largeImageKey": "mclogo",
+    "largeImageText": "It's Minecraft %mcver%, but modded",
+    "smallImageKey": "mclogo",
+    "smallImageText": "%mods% mods installed",
+    "allowSpectate": false
+  },
+  "multi_player": {
+    "_comment": "This is called when the player is playing multi-player",
+    "enabled": true,
+    "state": "Playing online",
+    "description": "Playing on %servername% (%ip%) with %players% players",
+    "largeImageKey": "mclogo",
+    "largeImageText": "It's Minecraft %mcver%, but modded",
+    "smallImageKey": "mclogo",
+    "smallImageText": "%mods% mods installed",
+    "allowSpectate": false,
+    "allowJoin": false
+  },
+  "join_game": {
+    "_comment": "This is called when the player is joining a game",
+    "enabled": true,
+    "state": "Joining Game",
+    "description": "%player% is joining a game",
+    "largeImageKey": "mclogo",
+    "largeImageText": "It's Minecraft %mcver%, but modded",
+    "smallImageKey": "mclogo",
+    "smallImageText": "%mods% mods installed"
+  },
+  "generic": {
+    "_comment": "This is a fallback event for when any of the above ones are disabled",
+    "state": "",
+    "description": "Playing Minecraft",
+    "largeImageKey": "mclogo",
+    "largeImageText": "It's Minecraft %mcver%, but modded",
+    "smallImageKey": "mclogo",
+    "smallImageText": "%mods% mods installed"
+  }
+}

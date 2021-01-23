@@ -1,0 +1,6 @@
+{
+  "slownessLevel": 2,
+  "hungerExhaustion": 0.05,
+  "type": "BLACKLIST",
+  "list": ["techreborn:alarm","sandwichable:sandwich_table","tis3d:casing","tis3d:controller"]
+}
