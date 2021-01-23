@@ -1,0 +1,9 @@
+{
+    "variants": {
+        "": [
+			{ "model": "unearthed:block/gabbro/redstone"},
+            { "model": "unearthed:block/gabbro/redstone1"},
+			{ "model": "unearthed:block/gabbro/redstone2"}
+        ]
+    }
+}

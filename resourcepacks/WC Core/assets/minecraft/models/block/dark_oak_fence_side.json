@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/fence_side",
+  "textures": {
+	"stripped": "block/stripped_dark_oak_log",
+	"plank": "block/dark_oak_planks"
+  }
+}

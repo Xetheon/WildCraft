@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/template_fence_gate_wall_open",
+  "textures": {
+    "plank": "minecraft:block/crimson_planks",
+    "log": "minecraft:block/crimson_stem",
+    "stripped": "minecraft:block/stripped_crimson_stem"
+  }
+}

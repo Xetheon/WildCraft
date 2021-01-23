@@ -1,0 +1,9 @@
+{
+    "variants": {
+        "": [
+			{ "model": "unearthed:block/conglomerate/gold"},
+            { "model": "unearthed:block/conglomerate/gold1"},
+			{ "model": "unearthed:block/conglomerate/gold2"}
+        ]
+    }
+}

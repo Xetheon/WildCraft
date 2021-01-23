@@ -1,0 +1,9 @@
+{
+    "variants": {
+        "": [
+			{ "model": "unearthed:block/siltstone/redstone"},
+            { "model": "unearthed:block/siltstone/redstone1"},
+			{ "model": "unearthed:block/siltstone/redstone2"}
+        ]
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "type=bottom": [{ "model": "pretty_prismarine/slabs/bottom/prismarine_bricks" },
+						{ "model": "pretty_prismarine/slabs/bottom/prismarine_bricks_2" }],
+        "type=top": [{ "model": "pretty_prismarine/slabs/top/prismarine_bricks" },
+					 { "model": "pretty_prismarine/slabs/top/prismarine_bricks_2" }],
+        "type=double": [{ "model": "pretty_prismarine/blocks/prismarine_bricks" },
+						{ "model": "pretty_prismarine/blocks/prismarine_bricks_2" }]
+    }
+}

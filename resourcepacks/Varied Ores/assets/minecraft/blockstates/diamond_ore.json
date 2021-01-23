@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "": [
+			{ "model": "block/diamond_ore"},
+            { "model": "block/diamond_ore1"},
+			{ "model": "block/diamond_ore2"},
+			{ "model": "block/diamond_ore3"}
+        ]
+    }
+}

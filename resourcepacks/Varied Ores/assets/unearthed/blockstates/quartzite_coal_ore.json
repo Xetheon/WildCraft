@@ -1,0 +1,9 @@
+{
+    "variants": {
+        "": [
+			{ "model": "unearthed:block/quartzite/coal"},
+            { "model": "unearthed:block/quartzite/coal1"},
+			{ "model": "unearthed:block/quartzite/coal2"}
+        ]
+    }
+}

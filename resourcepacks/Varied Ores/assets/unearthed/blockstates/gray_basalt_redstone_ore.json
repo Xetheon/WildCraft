@@ -1,0 +1,9 @@
+{
+    "variants": {
+        "": [
+			{ "model": "unearthed:block/gray_basalt/redstone"},
+            { "model": "unearthed:block/gray_basalt/redstone1"},
+			{ "model": "unearthed:block/gray_basalt/redstone2"}
+        ]
+    }
+}

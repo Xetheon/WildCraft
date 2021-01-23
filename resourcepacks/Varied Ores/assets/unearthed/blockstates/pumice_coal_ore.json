@@ -1,0 +1,9 @@
+{
+    "variants": {
+        "": [
+			{ "model": "unearthed:block/pumice/coal"},
+            { "model": "unearthed:block/pumice/coal1"},
+			{ "model": "unearthed:block/pumice/coal2"}
+        ]
+    }
+}

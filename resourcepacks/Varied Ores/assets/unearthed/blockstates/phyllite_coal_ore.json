@@ -1,0 +1,9 @@
+{
+    "variants": {
+        "": [
+			{ "model": "unearthed:block/phyllite/coal"},
+            { "model": "unearthed:block/phyllite/coal1"},
+			{ "model": "unearthed:block/phyllite/coal2"}
+        ]
+    }
+}

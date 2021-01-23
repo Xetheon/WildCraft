@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "": [{ "model": "pretty_prismarine/blocks/prismarine_bricks" },
+			 { "model": "pretty_prismarine/blocks/prismarine_bricks_2" }]
+    }
+}

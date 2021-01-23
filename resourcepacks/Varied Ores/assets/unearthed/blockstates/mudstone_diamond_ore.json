@@ -1,0 +1,9 @@
+{
+    "variants": {
+        "": [
+			{ "model": "unearthed:block/mudstone/diamond"},
+            { "model": "unearthed:block/mudstone/diamond1"},
+			{ "model": "unearthed:block/mudstone/diamond2"}
+        ]
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "variants": {
+        "": [
+			{ "model": "unearthed:block/rhyolite/iron"},
+            { "model": "unearthed:block/rhyolite/iron1"},
+			{ "model": "unearthed:block/rhyolite/iron2"}
+        ]
+    }
+}

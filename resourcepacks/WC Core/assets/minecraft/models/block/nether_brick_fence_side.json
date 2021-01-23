@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/fence_side",
+  "textures": {
+	  "stripped": "minecraft:block/netherrack",
+	  "plank": "minecraft:block/red_nether_bricks"
+  }
+}

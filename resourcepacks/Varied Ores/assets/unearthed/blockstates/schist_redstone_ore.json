@@ -1,0 +1,9 @@
+{
+    "variants": {
+        "": [
+			{ "model": "unearthed:block/schist/redstone"},
+            { "model": "unearthed:block/schist/redstone1"},
+			{ "model": "unearthed:block/schist/redstone2"}
+        ]
+    }
+}

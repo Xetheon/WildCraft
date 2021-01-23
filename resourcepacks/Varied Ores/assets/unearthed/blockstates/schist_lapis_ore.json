@@ -1,0 +1,9 @@
+{
+    "variants": {
+        "": [
+			{ "model": "unearthed:block/schist/lapis"},
+            { "model": "unearthed:block/schist/lapis1"},
+			{ "model": "unearthed:block/schist/lapis2"}
+        ]
+    }
+}

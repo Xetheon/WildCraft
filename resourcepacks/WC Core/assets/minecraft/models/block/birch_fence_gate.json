@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/template_fence_gate",
+  "textures": {
+    "plank": "minecraft:block/birch_planks",
+    "log": "minecraft:block/birch_log",
+    "stripped": "minecraft:block/stripped_birch_log"
+  }
+}

@@ -1,0 +1,9 @@
+{
+    "variants": {
+        "": [
+			{ "model": "unearthed:block/pumice/gold"},
+            { "model": "unearthed:block/pumice/gold1"},
+			{ "model": "unearthed:block/pumice/gold2"}
+        ]
+    }
+}

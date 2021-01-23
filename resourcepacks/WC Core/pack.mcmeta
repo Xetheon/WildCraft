@@ -1,0 +1,6 @@
+{
+  "pack": {
+    "pack_format": 6,
+    "description": "All primary 3rd party packs. Shouldn't be disabled"
+  }
+}

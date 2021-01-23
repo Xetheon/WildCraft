@@ -1,0 +1,6 @@
+{
+	"parent": "pretty_prismarine/template_slabs/bottom",
+	"textures": {
+		"texture": "pretty_prismarine/prismarine_bricks_2"
+	}
+}

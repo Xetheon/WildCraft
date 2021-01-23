@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/fence_inventory",
+  "textures": {
+    "planks": "minecraft:block/red_nether_bricks",
+    "log": "minecraft:block/nether_bricks",
+    "stripped": "block/netherrack"
+  }
+}

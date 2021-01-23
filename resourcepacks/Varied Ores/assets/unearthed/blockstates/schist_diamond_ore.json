@@ -1,0 +1,9 @@
+{
+    "variants": {
+        "": [
+			{ "model": "unearthed:block/schist/diamond"},
+            { "model": "unearthed:block/schist/diamond1"},
+			{ "model": "unearthed:block/schist/diamond2"}
+        ]
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "variants": {
+        "": [
+			{ "model": "unearthed:block/schist/emerald"},
+            { "model": "unearthed:block/schist/emerald1"},
+			{ "model": "unearthed:block/schist/emerald2"}
+        ]
+    }
+}
