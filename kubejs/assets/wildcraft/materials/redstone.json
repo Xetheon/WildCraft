@@ -1,0 +1,7 @@
+{	"layers": [
+		{
+			"vertexSource": "canvas:shaders/material/default.vert",
+			"fragmentSource": "wildcraft:shaders/material/redstone.frag"
+		}
+	]
+}

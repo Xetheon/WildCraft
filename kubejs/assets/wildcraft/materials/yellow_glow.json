@@ -1,0 +1,9 @@
+{
+	"layers": [
+		{
+			"vertexSource": "canvas:shaders/material/default.vert",
+			"fragmentSource": "wildcraft:shaders/material/generic_red.frag",
+			"fragmentSource": "wildcraft:shaders/material/generic_green.frag"
+		}
+	]
+}

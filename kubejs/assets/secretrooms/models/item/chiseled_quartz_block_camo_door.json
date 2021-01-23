@@ -1,0 +1,7 @@
+{
+  "parent": "wildcraft:item/door_item",
+  "textures": {
+    "0": "minecraft:block/chiseled_quartz_block",
+    "1": "minecraft:block/chiseled_quartz_block"
+  }
+}

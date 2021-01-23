@@ -1,0 +1,7 @@
+{
+  "parent": "wildcraft:item/door_item",
+  "textures": {
+    "0": "terrestria:block/willow_door_bottom",
+    "1": "terrestria:block/willow_door_top"
+  }
+}

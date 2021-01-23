@@ -1,0 +1,9 @@
+{
+    "variants": {
+        "": [
+			{ "model": "unearthed:block/kimberlite/iron"},
+            { "model": "unearthed:block/kimberlite/iron1"},
+			{ "model": "unearthed:block/kimberlite/iron2"}
+        ]
+    }
+}

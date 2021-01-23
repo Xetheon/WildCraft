@@ -1,0 +1,7 @@
+{
+  "parent": "wildcraft:item/door_item",
+  "textures": {
+    "0": "minecraft:block/gilded_blackstone",
+    "1": "minecraft:block/gilded_blackstone"
+  }
+}

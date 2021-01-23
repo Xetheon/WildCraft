@@ -1,0 +1,9 @@
+{
+    "variants": {
+        "": [
+			{ "model": "unearthed:block/slate/coal"},
+            { "model": "unearthed:block/slate/coal1"},
+			{ "model": "unearthed:block/slate/coal2"}
+        ]
+    }
+}

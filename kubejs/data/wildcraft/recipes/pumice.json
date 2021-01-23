@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "#A#",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "unearthed:pumice"
+    },
+        "A": {
+      "item": "minecraft:sponge"
+    }
+  },
+  "result": {
+    "item": "pumice:pumice"
+  }
+}

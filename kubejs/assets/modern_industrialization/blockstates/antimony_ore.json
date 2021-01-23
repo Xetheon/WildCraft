@@ -1,0 +1,9 @@
+{
+    "variants": {
+        "": [
+            { "model": "modern_industrialization:block/antimony"},
+            { "model": "modern_industrialization:block/antimony1"},
+            { "model": "modern_industrialization:block/antimony2"}
+        ]
+    }
+}

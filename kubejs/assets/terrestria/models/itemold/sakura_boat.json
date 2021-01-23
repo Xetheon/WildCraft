@@ -1,0 +1,6 @@
+{
+  "parent": "wildcraft:item/boat_item",
+  "textures": {
+    "0": "terrestria:entity/boat/sakura"
+  }
+}

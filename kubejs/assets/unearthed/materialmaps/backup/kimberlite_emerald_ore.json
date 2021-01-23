@@ -1,0 +1,9 @@
+{
+    "variants": {
+        "": [
+			{ "model": "unearthed:block/kimberlite/emerald"},
+            { "model": "unearthed:block/kimberlite/emerald1"},
+			{ "model": "unearthed:block/kimberlite/emerald2"}
+        ]
+    }
+}

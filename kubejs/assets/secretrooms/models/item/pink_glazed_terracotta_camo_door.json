@@ -1,0 +1,7 @@
+{
+  "parent": "wildcraft:item/door_item",
+  "textures": {
+    "0": "minecraft:block/pink_glazed_terracotta",
+    "1": "minecraft:block/pink_glazed_terracotta"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "wildcraft:item/door_item",
+  "textures": {
+    "0": "betternether:block/mushroom_fir_door_lower",
+    "1": "betternether:block/mushroom_fir_door_upper"
+  }
+}

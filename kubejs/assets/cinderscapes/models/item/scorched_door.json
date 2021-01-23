@@ -1,0 +1,7 @@
+{
+  "parent": "wildcraft:item/door_item",
+  "textures": {
+    "0": "cinderscapes:block/scorched_door_bottom",
+    "1": "cinderscapes:block/scorched_door_top"
+  }
+}

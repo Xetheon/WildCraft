@@ -1,0 +1,10 @@
+{
+  "defaultMap": {
+	"spriteMap": [
+	  {
+		"sprite": "minecraft:block/soul_torch",
+		"material": "wildcraft:bright"
+	  }
+	]
+  }
+}

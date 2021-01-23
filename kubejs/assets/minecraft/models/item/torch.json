@@ -1,0 +1,7 @@
+{
+  "parent": "wildcraft:item/torch_item",
+  "textures": {
+    "0": "block/torch",
+    "1": "block/basetorch"
+  }
+}

@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "": [
+			{ "model": "unearthed:block/siltstone/lapis"},
+            { "model": "unearthed:block/siltstone/lapis1"},
+			{ "model": "unearthed:block/siltstone/lapis2"}
+        ]
+    }
+}
+lapis

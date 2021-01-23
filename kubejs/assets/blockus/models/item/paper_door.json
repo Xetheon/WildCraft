@@ -1,0 +1,7 @@
+{
+  "parent": "wildcraft:item/door_item",
+  "textures": {
+    "0": "blockus:block/paper_door_bottom",
+    "1": "blockus:block/paper_door_top"
+  }
+}

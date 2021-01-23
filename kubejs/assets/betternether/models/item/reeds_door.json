@@ -1,0 +1,7 @@
+{
+  "parent": "wildcraft:item/door_item",
+  "textures": {
+    "0": "betternether:block/reeds_door_bottom",
+    "1": "betternether:block/reeds_door_top"
+  }
+}

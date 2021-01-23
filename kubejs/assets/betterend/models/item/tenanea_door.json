@@ -1,0 +1,7 @@
+{
+  "parent": "wildcraft:item/door_item",
+  "textures": {
+    "0": "betterend:block/tenanea_door_bottom",
+    "1": "betterend:block/tenanea_door_top"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "wildcraft:item/door_item",
+  "textures": {
+    "0": "queks_end:block/end_door_bottom",
+    "1": "queks_end:block/end_door_top"
+  }
+}

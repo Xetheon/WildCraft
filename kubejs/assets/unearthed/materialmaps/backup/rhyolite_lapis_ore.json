@@ -1,0 +1,9 @@
+{
+    "variants": {
+        "": [
+			{ "model": "unearthed:block/rhyolite/lapis"},
+            { "model": "unearthed:block/rhyolite/lapis1"},
+			{ "model": "unearthed:block/rhyolite/lapis2"}
+        ]
+    }
+}

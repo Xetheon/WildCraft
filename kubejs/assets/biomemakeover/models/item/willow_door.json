@@ -1,0 +1,7 @@
+{
+  "parent": "wildcraft:item/door_item",
+  "textures": {
+    "0": "biomemakeover:block/willow_door_bottom",
+    "1": "biomemakeover:block/willow_door_top"
+  }
+}

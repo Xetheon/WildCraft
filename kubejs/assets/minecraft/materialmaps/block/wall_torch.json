@@ -1,0 +1,10 @@
+{
+  "defaultMap": {
+	"spriteMap": [
+	  {
+		"sprite": "minecraft:block/torch",
+		"material": "canvas:warm_glow"
+	  }
+	]
+  }
+}

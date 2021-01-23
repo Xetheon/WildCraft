@@ -1,0 +1,7 @@
+{
+  "parent": "wildcraft:item/door_item",
+  "textures": {
+    "0": "minecraft:block/bricks",
+    "1": "minecraft:block/bricks"
+  }
+}

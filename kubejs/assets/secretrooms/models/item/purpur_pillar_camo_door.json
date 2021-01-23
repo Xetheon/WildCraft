@@ -1,0 +1,7 @@
+{
+  "parent": "wildcraft:item/door_item",
+  "textures": {
+    "0": "minecraft:block/purpur_pillar",
+    "1": "minecraft:block/purpur_pillar"
+  }
+}

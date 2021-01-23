@@ -1,0 +1,33 @@
+{
+	"values": [
+		"allure:crab_leg",
+		"allure:cooked_crab_leg",
+		"betterend:end_fish_raw",
+		"betterend:end_fish_cooked",
+		"biomemakeover:glowshroom_stew",
+		"campanion:mre",
+		"dishes:chickenburger",
+		"dishes:hamburger",
+		"dishes:cheeseburger",
+		"dishes:schnitzel",
+		"dishes:steak",
+		"dishes:bacon",
+		"dishes:raw_bacon",
+		"dishes:pizza_bacon",
+		"dishes:pizza_tuna",
+		"dishes:pizza_ham",
+		"indrev:tech_soup",
+		"kibe:kibe",
+		"kibe:golden_kibe",
+		"kibe:diamond_kibe",
+		"requiem:human_flesh",
+		"sandwichable:bacon_strips",
+		"sandwichable:pork_cuts",
+		"tacocraft:steak_taco",
+		"tacocraft:carnitas_taco",
+		"tacocraft:al_pastor_taco",
+		"tacocraft:fish_taco",
+		"tacocraft:cheesy_taco",
+		"tacocraft:crunchy_taco"
+	]
+}

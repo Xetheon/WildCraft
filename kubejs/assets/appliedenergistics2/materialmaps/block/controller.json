@@ -1,0 +1,10 @@
+{
+  "defaultMap": {
+	"spriteMap": [
+	  {
+		"sprite": "appliedenergistics2:block/controller_lights",
+		"material": "wildcraft:bright"
+	  }
+	]
+  }
+}

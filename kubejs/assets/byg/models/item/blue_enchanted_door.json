@@ -1,0 +1,7 @@
+{
+  "parent": "wildcraft:item/door_item",
+  "textures": {
+    "0": "byg:block/blue_enchanted_door_bottom",
+    "1": "byg:block/blue_enchanted_door_top"
+  }
+}
