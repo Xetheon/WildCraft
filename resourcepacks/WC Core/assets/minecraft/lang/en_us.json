@@ -1,4 +1,26 @@
 {
-    "item.minecraft.phantom_membrane": "Broken Wing",
-    "item.minecraft.slime_ball": "Slime Sludge"
+  "container.crafting": "",
+  "container.inventory": "",
+  "container.hopper": "",
+  "container.crafting": "",
+  "container.furnace": "",
+  "container.enchant": "",
+  "container.smoker": "",
+  "container.lectern": "",
+  "container.blast_furnace": "",
+  "container.repair": "",
+  "container.brewing": "",
+  "container.chest": "",
+  "container.chestDouble": "",
+  "container.enderchest": "",
+  "container.beacon": "",
+  "container.shulkerBox": "",
+  "container.barrel": "",
+  "container.loom": "",
+  "container.grindstone_title": "",
+  "container.cartography_table": "",
+  "container.stonecutter": "",
+  "container.upgrade": "",
+  "merchant.trades": "",
+  "gui.advancements": ""
 }
