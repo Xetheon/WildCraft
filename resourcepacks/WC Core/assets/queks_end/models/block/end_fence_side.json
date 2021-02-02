@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_side",
+  "textures": {
+	"stripped": "queks_end:block/stripped_end_log",
+	"plank": "queks_end:block/end_planks"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_fence_gate_wall_open",
+  "textures": {
+    "plank": "blockus:block/white_oak_planks",
+    "log": "blockus:block/white_oak_log",
+    "stripped": "blockus:block/stripped_white_oak_log"
+  }
+}

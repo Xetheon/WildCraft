@@ -1,0 +1,8 @@
+{
+  "parent": "block/fence_inventory",
+  "textures": {
+    "planks": "blockus:block/charred_planks",
+    "log": "blockus:block/charred_log",
+    "stripped": "blockus:block/stripped_charred_log"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_fence_gate_wall_open",
+  "textures": {
+    "plank": "betternether:block/rubeus_planks",
+    "log": "betternether:block/rubeus_log_side",
+    "stripped": "betternether:block/striped_rubeus_log_side"
+  }
+}

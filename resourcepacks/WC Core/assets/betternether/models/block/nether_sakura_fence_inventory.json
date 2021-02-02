@@ -1,0 +1,8 @@
+{
+  "parent": "block/fence_inventory",
+  "textures": {
+    "planks": "betternether:block/nether_sakura_planks",
+    "log": "betternether:block/nether_sakura_log_side",
+    "stripped": "betternether:block/striped_log_nether_sakura_side"
+  }
+}

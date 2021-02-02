@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_side",
+  "textures": {
+	"stripped": "betterend:block/mossy_glowshroom_stripped_log_side",
+	"plank": "betterend:block/mossy_glowshroom_planks"
+  }
+}

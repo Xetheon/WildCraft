@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_side",
+  "textures": {
+	"stripped": "terrestria:block/stripped_hemlock_log",
+	"plank": "terrestria:block/hemlock_planks"
+  }
+}

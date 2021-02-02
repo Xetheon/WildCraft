@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_side",
+  "textures": {
+	"stripped": "byg:block/stripped_rainbow_eucalyptus_log",
+	"plank": "byg:block/rainbow_eucalyptus_planks"
+  }
+}

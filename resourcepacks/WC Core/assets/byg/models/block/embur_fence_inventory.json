@@ -1,0 +1,8 @@
+{
+  "parent": "block/fence_inventory",
+  "textures": {
+    "planks": "byg:block/embur_planks",
+    "log": "byg:block/embur_pedu",
+    "stripped": "byg:block/stripped_embur_pedu"
+  }
+}

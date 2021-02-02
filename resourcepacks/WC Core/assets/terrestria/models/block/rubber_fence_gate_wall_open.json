@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_fence_gate_wall_open",
+  "textures": {
+    "plank": "terrestria:block/rubber_planks",
+    "log": "terrestria:block/rubber_log",
+    "stripped": "terrestria:block/stripped_rubber_log"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_side",
+  "textures": {
+	"stripped": "byg:block/stripped_skyris_log",
+	"plank": "byg:block/skyris_planks"
+  }
+}

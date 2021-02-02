@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_side",
+  "textures": {
+	"stripped": "byg:block/stripped_bulbis_stem",
+	"plank": "byg:block/bulbis_planks"
+  }
+}

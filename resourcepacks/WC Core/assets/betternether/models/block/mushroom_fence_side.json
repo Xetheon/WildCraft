@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_side",
+  "textures": {
+	"stripped": "betternether:block/mushroom_planks",
+	"plank": "betternether:block/mushroom_planks"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_side",
+  "textures": {
+	"stripped": "betterend:block/end_lotus_stripped_log_side",
+	"plank": "betterend:block/end_lotus_planks"
+  }
+}

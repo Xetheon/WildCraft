@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_side",
+  "textures": {
+	"stripped": "byg:block/stripped_sythian_stem",
+	"plank": "byg:block/sythian_planks"
+  }
+}

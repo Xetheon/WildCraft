@@ -1,0 +1,6 @@
+{
+  "parent": "block/fence_post",
+  "textures": {
+    "texture": "betterend:block/lacagrove_log_side"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "wildcraft:item/door_item",
+  "textures": {
+    "0": "fabriblocks:block/bamboo_door_bottom",
+    "1": "fabriblocks:block/bamboo_door_top"
+  }
+}
+ 

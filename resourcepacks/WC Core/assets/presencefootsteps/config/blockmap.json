@@ -3518,5 +3518,31 @@
     "sandwichable:salty_sand": "sand,quicksand",
     "sandwichable:desalinator": "bluntwood,hollowmetal",
     "sandwichable:sandwich": "rug",
-    "sandwichable:pickle_jar": "rug,grass"
+    "sandwichable:pickle_jar": "rug,grass",
+    
+    
+    "lightstones:stone": "stoneutility",
+    "lightstones:lightstone_ore": "stoneutility,ore",
+    
+    
+    "battletowers:boss_lock": "squeakywood",
+
+    
+    "gofish:wooden_crate": "bluntwood",
+    "gofish:iron_crate": "hollowmetal",
+    "gofish:gold_crate": "hollowmetal",
+    "gofish:diamond_crate": "composite",
+    "gofish:frosted_crate": "glowstone",
+    "gofish:slimey_crate": "stickywood",
+    "gofish:supply_crate": "bluntwood",
+    "gofish:fiery_crate": "brickstone",
+    "gofish:soul_crate": "souls,composite",
+
+    "dishes:birthday_cake": "organic",
+    
+    "va11halla_drinks:drink_maker": "stoneutility",
+    
+    "campanion:rope_bridge_planks": "squeakywood"
+    
+    
 }

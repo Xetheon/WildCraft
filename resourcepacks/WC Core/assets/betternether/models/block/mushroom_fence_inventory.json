@@ -1,0 +1,8 @@
+{
+  "parent": "block/fence_inventory",
+  "textures": {
+    "planks": "betternether:block/mushroom_planks",
+    "log": "betternether:block/mushroom_stem_side",
+    "stripped": "betternether:block/mushroom_planks"
+  }
+}

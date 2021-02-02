@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_side",
+  "textures": {
+	"stripped": "betterend:block/pythadendron_stripped_log_side",
+	"plank": "betterend:block/pythadendron_planks"
+  }
+}

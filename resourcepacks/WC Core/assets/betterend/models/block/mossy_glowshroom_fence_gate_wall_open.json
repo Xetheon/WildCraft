@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_fence_gate_wall_open",
+  "textures": {
+    "plank": "betterend:block/mossy_glowshroom_planks",
+    "log": "betterend:block/mossy_glowshroom_log_side",
+    "stripped": "betterend:block/mossy_glowshroom_stripped_log_side"
+  }
+}

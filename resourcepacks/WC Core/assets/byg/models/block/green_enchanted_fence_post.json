@@ -1,0 +1,6 @@
+{
+  "parent": "block/fence_post",
+  "textures": {
+    "texture": "byg:block/green_enchanted_log"
+  }
+}

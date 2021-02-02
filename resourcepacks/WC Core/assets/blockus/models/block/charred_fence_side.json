@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_side",
+  "textures": {
+	"stripped": "blockus:block/stripped_charred_log",
+	"plank": "blockus:block/charred_planks"
+  }
+}

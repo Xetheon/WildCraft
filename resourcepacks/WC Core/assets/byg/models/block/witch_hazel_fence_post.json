@@ -1,0 +1,6 @@
+{
+  "parent": "block/fence_post",
+  "textures": {
+    "texture": "byg:block/witch_hazel_log"
+  }
+}

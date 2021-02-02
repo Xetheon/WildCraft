@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_side",
+  "textures": {
+	"stripped": "byg:block/stripped_palm_log",
+	"plank": "byg:block/palm_planks"
+  }
+}

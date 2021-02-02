@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_fence_gate_wall",
+  "textures": {
+    "plank": "byg:block/lament_planks",
+    "log": "byg:block/lament_log",
+    "stripped": "byg:block/stripped_lament_log"
+  }
+}

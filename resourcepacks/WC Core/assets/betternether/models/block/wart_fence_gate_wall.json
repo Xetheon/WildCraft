@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_fence_gate_wall",
+  "textures": {
+    "plank": "betternether:block/wart_planks",
+    "log": "betternether:block/wart_bark",
+    "stripped": "betternether:block/striped_log_wartg_side"
+  }
+}

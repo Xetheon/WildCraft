@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_side",
+  "textures": {
+	"stripped": "betternether:block/striped_log_anchor_tree_side_1",
+	"plank": "betternether:block/anchor_tree_planks"
+  }
+}

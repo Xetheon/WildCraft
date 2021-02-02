@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_fence_gate_wall",
+  "textures": {
+    "plank": "betterend:block/tenanea_planks",
+    "log": "betterend:block/tenanea_log_side",
+    "stripped": "betterend:block/tenanea_stripped_log_side"
+  }
+}

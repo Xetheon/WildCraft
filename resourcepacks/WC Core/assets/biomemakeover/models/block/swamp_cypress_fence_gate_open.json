@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_fence_gate_open",
+  "textures": {
+    "plank": "biomemakeover:block/swamp_cypress_planks",
+    "log": "biomemakeover:block/swamp_cypress_log",
+    "stripped": "biomemakeover:block/stripped_swamp_cypress_log"
+  }
+}

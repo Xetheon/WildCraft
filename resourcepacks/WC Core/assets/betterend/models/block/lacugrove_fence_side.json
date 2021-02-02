@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_side",
+  "textures": {
+	"stripped": "betterend:block/lacagrove_log_stripped_side",
+	"plank": "betterend:block/lacagrove_planks"
+  }
+}

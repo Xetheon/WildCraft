@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_side",
+  "textures": {
+	"stripped": "biomemakeover:block/stripped_willow_log",
+	"plank": "biomemakeover:block/willow_planks"
+  }
+}

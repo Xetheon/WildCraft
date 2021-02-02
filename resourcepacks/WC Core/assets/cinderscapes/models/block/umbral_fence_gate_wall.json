@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_fence_gate_wall",
+  "textures": {
+    "plank": "cinderscapes:block/umbral_planks",
+    "log": "cinderscapes:block/umbral_stem",
+    "stripped": "cinderscapes:block/stripped_umbral_stem"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_side",
+  "textures": {
+	"stripped": "terrestria:block/stripped_rainbow_eucalyptus_log",
+	"plank": "terrestria:block/rainbow_eucalyptus_planks"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_side",
+  "textures": {
+	"stripped": "cinderscapes:block/stripped_scorched_stem",
+	"plank": "cinderscapes:block/scorched_planks"
+  }
+}

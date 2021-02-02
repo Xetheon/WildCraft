@@ -1,0 +1,8 @@
+{
+  "parent": "block/fence_inventory",
+  "textures": {
+    "planks": "biomemakeover:block/blighted_balsa_planks",
+    "log": "biomemakeover:block/blighted_balsa_log",
+    "stripped": "biomemakeover:block/stripped_blighted_balsa_log"
+  }
+}

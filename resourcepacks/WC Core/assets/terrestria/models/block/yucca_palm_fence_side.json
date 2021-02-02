@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_side",
+  "textures": {
+	"stripped": "terrestria:block/stripped_yucca_palm_log",
+	"plank": "terrestria:block/yucca_palm_planks"
+  }
+}

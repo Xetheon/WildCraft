@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_side",
+  "textures": {
+	"stripped": "betternether:block/striped_log_stalagnate_side",
+	"plank": "betternether:block/stalagnate_planks"
+  }
+}

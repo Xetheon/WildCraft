@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_side",
+  "textures": {
+	"stripped": "biomemakeover:block/stripped_swamp_cypress_log",
+	"plank": "biomemakeover:block/swamp_cypress_planks"
+  }
+}

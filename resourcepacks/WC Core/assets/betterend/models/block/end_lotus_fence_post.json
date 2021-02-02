@@ -1,0 +1,6 @@
+{
+  "parent": "block/fence_post",
+  "textures": {
+    "texture": "betterend:block/end_lotus_log_side"
+  }
+}

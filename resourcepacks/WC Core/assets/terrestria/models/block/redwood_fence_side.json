@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_side",
+  "textures": {
+	"stripped": "terrestria:block/stripped_redwood_log",
+	"plank": "terrestria:block/redwood_planks"
+  }
+}
