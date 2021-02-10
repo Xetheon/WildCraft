@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_fence_gate_open",
+  "textures": {
+    "plank": "11:block/yucca_palm_planks",
+    "log": "11:block/yucca_palm_log",
+    "stripped": "11:block/stripped_yucca_palm_log"
+  }
+}

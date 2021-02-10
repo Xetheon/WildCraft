@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_side",
+  "textures": {
+	"stripped": "11:block/stripped_sakura_log",
+	"plank": "11:block/sakura_planks"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  skyShadows: {
+    framebuffer: "shadow",
+    allowEntities: true,
+    allowParticles: true,
+    supportForwardRender: true,
+    vertexShader: "lumi:shaders/forward/shadow.vert",
+    fragmentShader: "lumi:shaders/forward/shadow.frag",
+  },
+
+  beforeWorldRender: {
+    passes: [
+      {
+        name: "clear_shadow",
+        framebuffer: "shadow",
+        program: "frex_clear"
+      }
+    ]
+  },
+
+  images: [
+    // depth attachment for shadow map
+    {
+      name: "shadow_depth",
+      depth: 4,
+      size: 16384,
+      internalFormat: "DEPTH_COMPONENT32",
+      pixelFormat: "DEPTH_COMPONENT",
+      pixelDataType: "FLOAT",
+      target: "TEXTURE_2D_ARRAY",
+      texParams: [
+        {name: "TEXTURE_MIN_FILTER", val: "NEAREST"},
+        {name: "TEXTURE_MAG_FILTER", val: "NEAREST"},
+        {name: "TEXTURE_WRAP_S", val: "CLAMP"},
+        {name: "TEXTURE_WRAP_T", val: "CLAMP"},
+        {name: "TEXTURE_COMPARE_MODE", val: "NONE"}
+      ]
+    }
+  ],
+
+  framebuffers: [
+    {
+      name: "shadow",
+      depthAttachment: {image: "shadow_depth", clearDepth: 1.0}
+    }
+  ]
+}

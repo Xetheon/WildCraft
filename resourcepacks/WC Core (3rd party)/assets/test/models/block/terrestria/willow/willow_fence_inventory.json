@@ -1,0 +1,8 @@
+{
+  "parent": "block/fence_inventory",
+  "textures": {
+    "planks": "11:block/willow_planks",
+    "log": "11:block/willow_log",
+    "stripped": "11:block/stripped_willow_log"
+  }
+}

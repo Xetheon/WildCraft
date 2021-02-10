@@ -1,0 +1,8 @@
+{
+	"parent": "item/stick",
+	"textures": {
+		"0": "block/acacia_log",
+		"1": "block/stripped_acacia_log_top",
+		"particle": "block/acacia_log"
+	}
+}

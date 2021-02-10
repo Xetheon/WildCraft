@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_fence_gate",
+  "textures": {
+    "plank": "11:block/hemlock_planks",
+    "log": "11:block/hemlock_log",
+    "stripped": "11:block/stripped_hemlock_log"
+  }
+}

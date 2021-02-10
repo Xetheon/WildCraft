@@ -1,0 +1,12 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "block/intricate_survival/casting/template/filled_crucible_molten_template",
+	"textures": {
+		"top": "block/intricate_survival/casting/crucible_top_steel",
+		"bottom": "block/intricate_survival/casting/crucible_bottom",
+		"particle": "block/intricate_survival/casting/crucible_side",
+		"side": "block/intricate_survival/casting/crucible_side",
+		"inside": "block/intricate_survival/casting/crucible_steel",
+		"content": "block/intricate_survival/casting/molten_steel"
+	}
+}

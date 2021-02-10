@@ -1,0 +1,6 @@
+{
+	"multipart": [
+		{ "apply": { "model": "block/intricate_survival/torch/torch" } },
+		{ "apply": { "model": "block/intricate_survival/torch/torch_flame" } }
+	]
+}

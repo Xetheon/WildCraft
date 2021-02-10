@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_side",
+  "textures": {
+	"stripped": "11:block/stripped_hemlock_log",
+	"plank": "11:block/hemlock_planks"
+  }
+}

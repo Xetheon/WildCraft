@@ -1,0 +1,28 @@
+{
+	"multipart": [
+		{	"when": { "facing": "east" },
+		 	"apply": { "model": "block/intricate_survival/torch/soul_fire_wall_torch" }
+		},
+		{	"when": { "facing": "east" },
+		 	"apply": { "model": "block/intricate_survival/torch/torch_soul_fire_flame_wall" }
+		},
+		{	"when": { "facing": "south" },
+		 	"apply": { "model": "block/intricate_survival/torch/soul_fire_wall_torch", "y": 90 }
+		},
+		{	"when": { "facing": "south" },
+		 	"apply": { "model": "block/intricate_survival/torch/torch_soul_fire_flame_wall", "y": 90 }
+		},
+		{	"when": { "facing": "west" },
+		 	"apply": { "model": "block/intricate_survival/torch/soul_fire_wall_torch", "y": 180 }
+		},
+		{	"when": { "facing": "west" },
+		 	"apply": { "model": "block/intricate_survival/torch/torch_soul_fire_flame_wall", "y": 180 }
+		},
+		{	"when": { "facing": "north" },
+		 	"apply": { "model": "block/intricate_survival/torch/soul_fire_wall_torch", "y": 270 }
+		},
+		{	"when": { "facing": "north" },
+		 	"apply": { "model": "block/intricate_survival/torch/torch_soul_fire_flame_wall", "y": 270 }
+		} 
+	]
+}

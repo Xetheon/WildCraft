@@ -1,0 +1,12 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "block/intricate_survival/casting/template/filled_crucible_ingots_template",
+	"textures": {
+		"4": "block/intricate_survival/casting/copper",
+		"5": "block/intricate_survival/casting/tin",
+		"top": "block/intricate_survival/casting/fired_top",
+		"bottom": "block/intricate_survival/casting/fired_bottom",
+		"particle": "block/intricate_survival/casting/fired_side",
+		"side": "block/intricate_survival/casting/fired_side"
+	}
+}

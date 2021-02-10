@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_fence_gate_wall_open",
+  "textures": {
+    "plank": "11:block/00_planks",
+    "log": "11:block/00_log",
+    "stripped": "11:block/stripped_00_log"
+  }
+}

@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "":[
+		  { "model": "block/cactus/potted_cactus", "weight": 1 },
+          { "model": "block/cactus/potted_cactus", "weight": 1, "y": 90 },
+          { "model": "block/cactus/potted_cactus", "weight": 1, "y": 180 },
+          { "model": "block/cactus/potted_cactus", "weight": 1, "y": 270 } 
+		]
+    }
+}

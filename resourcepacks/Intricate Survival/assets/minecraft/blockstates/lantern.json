@@ -1,0 +1,16 @@
+{   
+	"multipart": [
+        {   "when": { "hanging": "false" },
+            "apply": { "model": "block/intricate_survival/lantern/lantern_flame"}
+        },
+		{   "when": { "hanging": "false" },
+            "apply": { "model": "minecraft:block/intricate_survival/lantern/lantern"}
+        },
+        {   "when": { "hanging": "true" },
+            "apply": { "model": "block/intricate_survival/lantern/lantern_flame_hanging"}
+        },
+		{   "when": { "hanging": "true" },
+            "apply": { "model": "minecraft:block/intricate_survival/lantern/lantern_hanging"}
+        }
+	]
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_fence_gate_wall",
+  "textures": {
+    "plank": "11:block/japanese_maple_planks",
+    "log": "11:block/japanese_maple_log",
+    "stripped": "11:block/stripped_japanese_maple_log"
+  }
+}

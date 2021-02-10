@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_side",
+  "textures": {
+	"stripped": "11:block/stripped_japanese_maple_log",
+	"plank": "11:block/japanese_maple_planks"
+  }
+}

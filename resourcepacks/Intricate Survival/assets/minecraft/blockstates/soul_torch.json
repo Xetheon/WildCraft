@@ -1,0 +1,6 @@
+{
+	"multipart": [
+		{ "apply": { "model": "block/intricate_survival/torch/soul_fire_torch" } },
+		{ "apply": { "model": "block/intricate_survival/torch/torch_soul_fire_flame" } }
+	]
+}

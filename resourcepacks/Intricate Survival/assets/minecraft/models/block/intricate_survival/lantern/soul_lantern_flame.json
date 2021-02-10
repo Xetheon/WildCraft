@@ -1,0 +1,7 @@
+{
+	"parent": "block/intricate_survival/lantern/flame",
+	"textures": {
+		"fire": "block/intricate_survival/torch/torch_soul_fire",
+		"particle": "block/soul_lantern"
+	}
+}

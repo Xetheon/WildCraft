@@ -1,0 +1,8 @@
+{
+  "parent": "block/fence_inventory",
+  "textures": {
+    "planks": "11:block/rubber_planks",
+    "log": "11:block/rubber_log",
+    "stripped": "11:block/stripped_rubber_log"
+  }
+}

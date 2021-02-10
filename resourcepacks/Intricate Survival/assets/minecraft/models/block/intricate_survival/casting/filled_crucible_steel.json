@@ -1,0 +1,11 @@
+{
+     "parent": "block/intricate_survival/casting/template/filled_crucible_template",
+	 "textures": {
+        "particle": "block/intricate_survival/casting/fired_side",
+        "top": "block/intricate_survival/casting/fired_top",
+        "bottom": "block/intricate_survival/casting/fired_bottom",
+        "side": "block/intricate_survival/casting/fired_side",
+        "inside": "block/intricate_survival/casting/fired_bottom",
+		"content": "block/intricate_survival/casting/ore_steel"
+    }
+}
