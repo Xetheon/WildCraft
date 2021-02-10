@@ -36,6 +36,14 @@
 					"Count": 127,
 					"type": "item"
 				}
+			},
+			{ 
+				"type": "roughlyenoughitems:entry_stack",
+				"data": { 
+					"id": "minecraft:dispenser",
+					"Count": 127,
+					"type": "item"
+				}
 			}
 		],
 		// Declares whether cheating mode is on.

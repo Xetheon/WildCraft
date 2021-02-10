@@ -1,0 +1,7 @@
+{
+	"blockDistance": 1,
+	"stepRate": 20,
+	"gravity": -9.8100004196167,
+	"airDensity": 1.2000000476837158,
+	"airResistanceEnabled": true
+}

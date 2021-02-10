@@ -2,9 +2,11 @@
   "hatVer": 3,
   "serverHats": true,
   "autoDownload": true,
-  "hatChance": 100,
+  "hatChance": 0,
   "moddedHats": true,
   "hatBlacklist": [
+    "biomemakeover:lightning_bug",
+    "biomemakeover:lightning_bug_alternate",
     "minecraft:rabbit",
     "earthtojavamobs:skeleton_wolf",
     "earthtojavamobs:vested_rabbit",
