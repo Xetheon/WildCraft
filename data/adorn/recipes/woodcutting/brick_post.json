@@ -1,0 +1,8 @@
+{
+  "type": "woodcutter:woodcutting",
+  "ingredient": {
+    "item": "minecraft:bricks"
+  },
+  "result": "adorn:brick_post",
+  "count": 2
+}

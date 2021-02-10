@@ -1,0 +1,8 @@
+{
+  "type": "woodcutter:woodcutting",
+  "ingredient": {
+    "item": "terrestria:hemlock_planks"
+  },
+  "result": "adorn:terrestria_hemlock_step",
+  "count": 2
+}

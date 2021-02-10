@@ -1,0 +1,8 @@
+{
+  "type": "woodcutter:woodcutting",
+  "ingredient": {
+    "item": "minecraft:diorite"
+  },
+  "result": "adorn:diorite_step",
+  "count": 2
+}
